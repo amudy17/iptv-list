@@ -582,43 +582,6 @@ https://oload.stream/stream/nDeJ_FjHOoU~1538983500~125.160.0.0~kgXWb8eo?mime=tru
 #EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/eitRZXfbw6rO0CfP3lPaGgK63qr.jpg" group-title="Video On Demand",Dilan 1990 (2018)
 https://oload.stream/stream/m5ydLVjfSj8~1538984380~125.160.0.0~Csr6zJEi?mime=true
 
-EXTINF:0,UK: Super Tv
-
-rtmp://$OPT:rtmp-raw=rtmp://37.59.17.222:1935/live_ca playpath=supertv3 swfUrl=http://sonara.net/mediaplayera/player.swf live=1 pageUrl=http://super70.info/elo/l3/ conn=S:OK
-
-rtmp://$OPT:rtmp-raw=rtmp://50.23.113.249/live playpath=204185?313435353634343039345f3631323336356566303866616139303034636339633166313830623731356336 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=27781&wh=730&ht=430&r=extremotv.net conn=S:OK
-
-BT europe
-http://31.204.128.68/loadbalance/fut06.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDg6MzQ6MjMgUE0maGFzaF92YWx1ZT0vaXZBeUg2UTNtditZakZCME03ZUFnPT0mdmFsaWRtaW51dGVzPTE=
-
-
-BT europe
-rtmp://$OPT:rtmp-raw=rtmp://185.63.255.18:80/live playpath=bte swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedx.php?live=bte&vw=736&vh=438 token=%Zrey(nKa@#Z
-
-EXTINF:0,UK: Sky Sports3
-http://micutzuiptv.noip.me:8888/live/alla/alla/8.ts
-
-#EXTINF:0,UK: Sky Sports1
-http://micutzuiptv.noip.me:8888/live/alla/alla/6.ts 
-
-sports
-rtmp://$OPT:rtmp-raw=rtmp://173.192.200.79:443/live playpath=204190?313435343738323334315f3562373733363236373231313437636466386437383936316531363034386366 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=27786&wh=730&ht=430&r=extremotv.net conn=S:OK
-
-sports
-rtmp://$OPT:rtmp-raw=rtmp://50.97.142.144/live playpath=198735?313435343738323135385f6630393736306661646331613430346337633934646137353231653932616131 swfUrl=http://static.castalba.tv/player5.9.swf live=1 pageUrl=http://castalba.tv/embed.php?cid=23745&wh=730&ht=430&r=extremotv.net conn=S:OK
-
-BT1
-http://sjc-ucdn11-ntt-tcdn.ustream.tv/sjc-uhs15/streams/httpflv/ustreamVideo/21924495/streams/live_1_1454768844_474616750.flv?start=178096
-
-BT1
-rtmp://$OPT:rtmp-raw=rtmp://89.248.168.200/live playpath=myb1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedmono.php?live=myb1&vw=640&vh=360
-
-BT1
-rtmp://$OPT:rtmp-raw=rtmp://93.174.93.196/live playpath=myb1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedmono.php?live=myb1&vw=640&vh=360
-
-BT1
-rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=myb1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embedmono.php?live=myb1&vw=640&vh=360
-
 #EXTM3U
 #EXTINF:-1,SKY SPORTS 1
 http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
@@ -660,9 +623,3 @@ rtmp://$OPT:rtmp-raw=rtmp://80.82.70.155/live/mys5 pageUrl=http://www.yocast.tv/
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.171/live/vskys5 pageUrl=http://www.cast4u.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.46/live/sf1 pageUrl=http://www.cast4u.tv/
-
-username=beIN_AR104&password=111018022016&type=m3u http://62.210.162.88:80/get.php?username=FR104&password=134718022016&type=m3u http://solu-iptv.com:8000/get.php?username=full_test&password=full_test&type=m3u http://tornado-ultra.noip.me:8000/get.php?username=fri&password=fri&type=m3u http://italians-world.net:6969/get.php?username=fratello&password=fratello&type=m3u http://naccaro.ddns.net:8000/get.php?username=ivano1&password=ivano1&type=m3u http://tornado-ultra.noip.me:8000/get.php?username=ast&password=ast&type=m3u http://iptv333.mine.nu:8000/get.php?username=helmi&password=helmi&type=m3u http://cdnlive001.dp.ua:8080/get.php?username=WFaY87QgFq&password=Rr0f1D4TkG&type=m3u http://tornado-ultra.noip.me:8000/get.php?username=Fanta&password=Fanta&type=m3u http://www.t12v.com:8000/get.php?username=jarod&password=jarod&type=m3u
-
-Sports Channels IPTV Playlist 18-02-2016 #EXTM3U #EXTINF:-1,SPORT : BT SPORT/ESPN* http://62.210.162.88:80/live/SPORT104/184418022016/2049.ts #EXTINF:-1,SPORT : BT SPORT EUROPE* http://62.210.162.88:80/live/SPORT104/184418022016/2011.ts #EXTINF:-1,SPORT : TYC SPORTS ARG http://62.210.162.88:80/live/SPORT104/184418022016/2035.ts #EXTINF:-1,SPORT : M4 SPORT HUN http://62.210.162.88:80/live/SPORT104/184418022016/2036.ts #EXTINF:-1,ROM : DOLCESPORT 1* http://62.210.162.88:80/live/SPORT104/184418022016/1831.ts #EXTINF:-1,ROM : DOLCESPORT 2* http://62.210.162.88:80/live/SPORT104/184418022016/1832.ts #EXTINF:-1,ARENA1* http://62.210.162.88:80/live/SPORT104/184418022016/1515.ts #EXTINF:-1,ARENA2* http://62.210.162.88:80/live/SPORT104/184418022016/1516.ts #EXTINF:-1,ARENA3* http://62.210.162.88:80/live/SPORT104/184418022016/1517.ts #EXTINF:-1,ARENA4* http://62.210.162.88:80/live/SPORT104/184418022016/1518.ts #EXTINF:-1,btsports2* http://62.210.162.88:80/live/SPORT104/184418022016/1525.ts #EXTINF:-1,USA : SPORT USA* http://62.210.162.88:80/live/SPORT104/184418022016/1836.ts #EXTINF:-1,RU : FUTBOL 1* http://62.210.162.88:80/live/SPORT104/184418022016/1778.ts #EXTINF:-1,RU
-
-rtmp-raw=rtmp://94.102.56.157/live playpath=hdch8 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch8&vw=640&vh=360
