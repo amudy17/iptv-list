@@ -1,0 +1,297 @@
+#EXTM3U
+
+#EXTINF:-1,[COLOR green]--- ISLAMIC CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+
+#EXTINF:-1 group-title="Religion",Akhyar TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Wesal TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Makkah Live [HD]
+https://www.youtube.com/watch?v=2XVI6D_4CXs
+#EXTINF:-1 group-title="Religion",Madinah Live
+https://youtu.be/qZh9H09-mxQ
+#EXTINF:-1 group-title="Religion",Makkah Live [HD]
+https://www.youtube.com/watch?v=2XVI6D_4CXs
+
+#EXTINF:-1,[COLOR green]--- INDONESIA TV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+
+#EXTINF:-1 tvg-logo="http://www.globaltv.co.id/asset2017/images/logo-globaltv-pilihan%20keluarga.png",GLOBALTV
+https://cdn-livetv1.metube.id/hls/globaltv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/0/09/20170705042443%21RCTI_MNC-Group.png",RCTI
+https://cdn-livetv1.metube.id/hls/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC TV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png",NET TV HD
+http://devanyahya.web.id/files/youtube.php?id=S5pufPfL6OU
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682767_logo_COMEDY-CHANNEL.png",Comedy Channel
+https://cdn-livetv1.metube.id/hls/comedy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-static.metube.id/covers/channels/P6CsRUMi3PsWyOZjifLh.png",Games Channel
+https://cdn-livetv1.metube.id/hls/gameschannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1442313335_logo_1434697345_logo_MNC-SPORT.png",MNC Sport
+https://cdn-livetv1.metube.id/hls/mncsport.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682537_logo_MOVIE-CHANNEL.png",Movie Channel
+https://cdn-livetv1.metube.id/hls/mncmovie.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/76/MNC_Entertainment.svg/500px-MNC_Entertainment.svg.png",MNC Entertainment
+https://cdn-livetv1.metube.id/hls/mncentertainment.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432784559_logo_infotaiment%20300x96.png",MNC Infotainment
+https://cdn-livetv1.metube.id/hls/mncinfotainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/8/8f/MNC_Lifestyle.png/revision/latest?cb=20130228131831" ,MNC Life Style
+https://cdn-livetv1.metube.id/hls/mnclifestyle.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.mncshop.co.id/resources/ms/image/common/h1_logo.png",MNC Shop
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682878_logo_MUSIC-CHANNEL.png",Music Channel
+https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682386_logo_FOOD-TRAVEL.png",Food & Travel
+https://cdn-livetv1.metube.id/hls/foodtravel.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1433314462_logo_autogadget.png",Auto & Gadget
+https://cdn-livetv1.metube.id/hls/autogadget.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.anugrah.net/wp-content/uploads/2014/08/Logo-Life_blue.png" ,Life
+https://cdn-livetv1.metube.id/hls/life.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432782527_logo_muslimbaru.png",MNC Muslim
+https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1432776307_logo_news.png" ,MNC News
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-C0p88aBg7ug/U-M7b3zlb2I/AAAAAAAAAAc/MtQZOH1Jlbc/w600-h600/logoBeritasatuEnglish_square%2B%25281%2529.png",Beritasatu English	
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.livetvstreaming.online/wp-content/uploads/2017/02/logo-berita-satu-news.png",Beritasatu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151",Beritasatu World	
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png",SCTV
+http://smartvradar.com/hls/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png",Trans 7
+http://smartvradar.com/hls/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/c/c2/Logo_Trans_TV.png/revision/latest?cb=20131217031940",Trans TV
+http://smartvradar.com/hls/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b6/Antv_logo_%282017%29.png",ANTV HD
+http://devanyahya.web.id/files/youtube.php?id=n2ZqTwsH3MM
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/f/f2/20131212032422%21Logo_tvedukasi_baru.png",TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-utv-FB1mrlM/U4k4U2JN9HI/AAAAAAAARqU/EKp90xumCvg/s1600/LOGO+RAJAWALI+TV.png",Rajawali TV
+http://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RBr-IjfzCcU/T8oBXaSXAeI/AAAAAAAAFwU/B732Pxg7gUg/s1600/LOGO+TVRI.png",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/6/5/4/0/6540154/6540154,640x360,b:2.jpg",NASA TV Public - Education HD
+http://devanyahya.web.id/files/youtube2.php?id=wwMDvPCGeE0
+
+#EXTINF:-1,[COLOR green]--- WORLD IPTV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+
+#EXTINF:-1,  Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1, All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,  All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,  CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,  UFC NETWORK
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1, NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+#EXTINF:-1,  MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,  SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,  ARENA SPORT1
+http://smarttv.tvviet.tv/live22/ArenaSport.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1,  ARENA SPORT2
+http://smarttv.tvviet.tv/live32/ArenaSport2.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1,  ARENA SPORT3
+http://smarttv.tvviet.tv/live32/ArenaSport3.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1,  ARENA SPORT4
+http://smarttv.tvviet.tv/live32/ArenaSport4.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1,  ARENA SPORT5
+http://smarttv.tvviet.tv/live52/Arenasport5.m3u8?u=gagi1911&p=db7742b5942a4765a48f24bfee58da2788ceb8d6d4dceb3ad4f6853d7961ad26
+#EXTINF:-1, Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,  Earth TV
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]--- USEETV CHANNELS ---[/COLOR]
+http://0.0.6.0:1234
+
+#EXTM3U
+#EXTINF:-1 group-title="HD",.Net [HD]
+https://youtu.be/huXO_YPwgdw
+#EXTINF:-1 group-title="News",ABC News [HD]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 group-title="SD",ANTV 1
+http://smartvradar.com/hls/antv.m3u8
+#EXTINF:-1 group-title="SD",ANTV 2
+https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",ANTV 3
+http://185.152.67.33/live/tv4/index.m3u8
+#EXTINF:-1 group-title="Religion",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/player.m3u8
+#EXTINF:-1 group-title="Religion",Al Iman TV
+https://youtu.be/iiimG-5z7h8
+#EXTINF:-1 group-title="News",Al Jazeera 1 [HD]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera 2 [HD]
+https://youtu.be/UgJtWREOXHA
+#EXTINF:-1 group-title="Religion",Al Quran Al Kareem
+https://youtu.be/AD8segtl5h4
+#EXTINF:-1 group-title="SD",Arirang
+https://youtu.be/JVr6yiZ9IMY
+#EXTINF:-1 group-title="Sports",Bein Sports 1
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 2
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Bein Sports 3
+http://ball4fun.redirectme.net:1935/live1/0x777_beinsporthd3_360p/playlist.m3u8
+#EXTINF:-1 group-title="News",Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="News",Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="SD",Bloomberg TV
+https://mediaeuwest.akamaized.net/eu/EU440kb_live.m3u8
+#EXTINF:-1 group-title="News",DW 1
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="News",DW 2
+https://livestream-hybrid.akamaized.net/live/smil:dwtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Euro News
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:-1 group-title="Fashion",FashionTV
+https://youtu.be/6KoT2HbGjHs
+#EXTINF:-1 group-title="Sports",Fox Sports 1
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x777_foxsport1_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 2
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x555_foxsport2_360p/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fox Sports 3
+http://ball4fun.redirectme.net:1935/ballsod365-4/0x555_foxsport3_360p/playlist.m3u8
+#EXTINF:-1 group-title="News",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index256.m3u8
+#EXTINF:-1 group-title="HD",GlobalTV 1 [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8
+#EXTINF:-1 group-title="HD",GlobalTV 2 [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
+#EXTINF:-1 group-title="SD",GlobalTV 3
+http://live.metube.id/tv/channel2000041/index.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 1
+http://smartvradar.com/hls/indosiar.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 2
+https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Indosiar 3
+http://204.12.244.165/live/tv5/index.m3u8
+#EXTINF:-1 group-title="SD",Kompas TV 1
+http://43.245.183.170/kompastv/live.stream/index.m3u8
+#EXTINF:-1 group-title="SD",Kompas TV 2
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",MNC Infotainment
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index.m3u8
+#EXTINF:-1 group-title="Music",MNC Music
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+#EXTINF:-1 group-title="News",MNC News 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index256.m3u8
+#EXTINF:-1 group-title="News",MNC News 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index512.m3u8
+#EXTINF:-1 group-title="News",MNC News 3
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index1024.m3u8
+#EXTINF:-1 group-title="News",MNC News [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
+#EXTINF:-1 group-title="SD",MNC Shop
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index.m3u8
+#EXTINF:-1 group-title="SD",MNC TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8
+#EXTINF:-1 group-title="HD",MNC TV [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+#EXTINF:-1 group-title="Religion",Madinah Live
+https://youtu.be/qZh9H09-mxQ
+#EXTINF:-1 group-title="News",MetroTV 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",MetroTV 2
+https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",O Channel
+http://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Quran Hedayah
+https://youtu.be/wfDiLxO3TZo
+#EXTINF:-1 group-title="SD",RCTI 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index256.m3u8
+#EXTINF:-1 group-title="SD",RCTI 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8
+#EXTINF:-1 group-title="SD",RCTI 3
+http://185.152.67.33/live/tv8/index.m3u8
+#EXTINF:-1 group-title="HD",RCTI [HD]
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1 group-title="SD",Rajawali TV
+http://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Rodja TV 1 [HD]
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Rodja TV 2 [HD]
+rtsp://vids.rodja.tv:1935/live/rodja
+#EXTINF:-1 group-title="Religion",Rodja TV 3 [HD]
+https://youtu.be/wcstE1IBmZY
+#EXTINF:-1 group-title="SD",SCTV 1
+http://smartvradar.com/hls/sctv.m3u8
+#EXTINF:-1 group-title="SD",SCTV 2
+https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",SCTV 3
+http://204.12.244.166/live/tv2/index.m3u8
+#EXTINF:-1 group-title="Religion",Saudi 1
+https://youtu.be/AO3BUzkV1QU
+#EXTINF:-1 group-title="Religion",Saudi 2
+https://youtu.be/aNVnsmUszxc
+#EXTINF:-1 group-title="SD",TV Edukasi
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/index.m3u8
+#EXTINF:-1 group-title="Local",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Time Quran
+http://62.68.66.246:8002/play/s6
+#EXTINF:-1 group-title="SD",Trans 7 [1]
+http://smartvradar.com/hls/trans7.m3u8
+#EXTINF:-1 group-title="SD",Trans 7 [2]
+https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Trans 7 [3]
+http://204.12.244.165/live/tv7/index.m3u8
+#EXTINF:-1 group-title="SD",Trans TV [1]
+http://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="SD",Trans TV [2]
+http://185.152.67.33/live/tv3/index.m3u8
+#EXTINF:-1 group-title="Religion",Wesal TV
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
+#EXTINF:-1 group-title="News",iNews TV 1
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index256.m3u8
+#EXTINF:-1 group-title="News",iNews TV 2
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index512.m3u8
+#EXTINF:-1 group-title="News",iNews TV HD
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
