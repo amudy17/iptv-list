@@ -1,6 +1,11 @@
 # iptv-list
-daily tv = spare of iptv channel
+arabian = channel arabic inside
 
-arabian list = channel arabic inside
+dailytv = spare of iptv channel
+
+iptv = world wild channel
+
+perfect player = spare of iptv channel
 
 tv list = multi channel for indonesia and other country inside
+
